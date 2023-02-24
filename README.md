@@ -1,16 +1,3 @@
-これは、Supabaseの[公式のクイックスタート](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)に記載されていることだけをTypeScriptで実装するサンプルコードです。
+以下を参照ください
 
-## ブログ
-
-## Getting Started
-
-以下をローカルで実行してっください
-
-```
-$ yarn
-$ yarn dev
-```
-
-ブラウザで表示しご確認ください
-
-http://localhost:3000/page
+[](https://zenn.dev/hayato94087/articles/211e964182c2ab)
